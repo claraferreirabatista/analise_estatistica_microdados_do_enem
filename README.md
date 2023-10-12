@@ -1,6 +1,6 @@
 # Projeto: Análise dos Microdados do Enem - Impacto da COVID-19 na Região Centro-Oeste
 
-Visualise o nossos gráficos gerados:
+Visualize o nossos gráficos gerados:
 
 [Análise dos Microdados do Enem](https://nbviewer.org/github/claraferreirabatista/analise_estatistica_microdados_do_enem/blob/main/analise_estatistica_dos_dados_enem.html)
 
